@@ -1,0 +1,5 @@
+version: "2"
+services:
+  daphne:
+    image: tbeadle/daphne:1.0.3
+    build: .
