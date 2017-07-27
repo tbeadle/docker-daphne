@@ -1,5 +1,5 @@
 version: "2"
 services:
   daphne:
-    image: tbeadle/daphne:1.2.0
+    image: tbeadle/daphne:1.3.0
     build: .
